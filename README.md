@@ -9,4 +9,8 @@
 [website]: https://myfolio-strixblog.web.app/
 
 ## Screenshots
-### HomeScreen
+### chrome extension - Overview Image
+<img src="strix-launcher/images/2.png" width="450" height="600">
+
+### Preview frame
+<img src="strix-launcher/images/1.png">
