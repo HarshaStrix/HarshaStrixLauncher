@@ -1,6 +1,6 @@
 # HarshaStrix Launcher
 ## Description
-* HarshaStrix is a simple chrome extension which serves as a quick launcher for my portfolio and social media sites.
+* HarshaStrix is a simple chrome extension which serves as a quick launcher for my portfolio website and multiple social media accounts.
 
 ## Author
 * Sree Harsha - aka [HarshaStrix][website]
