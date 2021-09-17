@@ -12,5 +12,8 @@
 ### chrome extension - Overview Image
 <img src="strix-launcher/images/2.png" width="450" height="600">
 
-### Preview frame
+### Preview frames
 <img src="strix-launcher/images/1.png">
+
+### Preview frames
+<img src="strix-launcher/images/3.png">
